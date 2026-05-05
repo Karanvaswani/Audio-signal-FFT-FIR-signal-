@@ -13,9 +13,6 @@ Additive White Gaussian Noise (AWGN), performs demodulation using
 signal processing techniques, and quantitatively compares output
 SNR performance of AM vs FM.
 
-This project demonstrates core telecommunications engineering concepts
-directly aligned with the MSc Electronics and Communications Engineering
-curriculum at the University of Siena, Italy.
 
 ---
 
